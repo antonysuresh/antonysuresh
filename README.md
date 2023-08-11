@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="Left">☺️ About Me!</h3>
-<p>Hi all, I was started my coding career 2021 as UI Developer. I was actualy a Mechanical Engineering Graduated and my goal is to be a full stack developer.</p>
+<p>Hi all, I was actualy a Mechanical Engineering Graduated and my goal is to be a full stack developer.</p>
 
 - 🔭 I’m currently working as **Front-End Developer**
 
